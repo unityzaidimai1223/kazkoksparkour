@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1367
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 25
+  controlID: 17
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -273,8 +273,8 @@ MonoBehaviour:
     y: 677
     width: 1208
     height: 640
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -627,14 +627,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 68
-  m_LastProjectPath: D:\parkour3d\parkour3d\Parkour3D
+  m_LastProjectPath: D:\kazkoksParkour\kazkoksparkour\Parkour3D
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 305b0000
     m_LastClickedID: 23344
-    m_ExpandedIDs: 00000000105b0000125b0000145b0000165b000000ca9a3b
+    m_ExpandedIDs: 00000000305b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1087,9 +1087,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 78.94522, y: 8.619089, z: 17.309368}
+    m_Target: {x: 81.58349, y: 33.634373, z: 90.87226}
     speed: 2
-    m_Value: {x: 78.94522, y: 8.619089, z: 17.309368}
+    m_Value: {x: 81.58349, y: 33.634373, z: 90.87226}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1135,9 +1135,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.2021088, y: -0.79636365, z: 0.38677564, w: 0.4176623}
+    m_Target: {x: -0.10893207, y: -0.8882178, z: 0.30824015, w: -0.32034004}
     speed: 2
-    m_Value: {x: 0.202782, y: -0.79610246, z: 0.3866499, w: 0.41904914}
+    m_Value: {x: -0.10948046, y: -0.8884354, z: 0.30831903, w: -0.3219253}
   m_Size:
     m_Target: 11.411661
     speed: 2
